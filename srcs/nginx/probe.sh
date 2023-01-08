@@ -1,0 +1,1 @@
+rc-service sshd status
